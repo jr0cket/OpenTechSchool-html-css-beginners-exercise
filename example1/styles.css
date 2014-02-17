@@ -8,5 +8,13 @@ h1 {
 Adding a background colour to a paragraph
 */
 p {
-    background-color: lime;
+    background-color: aqua;
 }
+
+/*
+Addiing a border around an image
+*/
+img {
+    border: 2em solid black;
+}
+
