@@ -1,3 +1,5 @@
+/* Portfolio styles*/
+
 
 h1 {
      color: red;
@@ -18,3 +20,12 @@ img {
     border: 2em solid black;
 }
 
+
+/*
+Using a div to wrap center content / group of tags
+we are calling an ID, so we use a # in front of the name
+*/
+#wrap-centered {
+    width: 100%;
+    margin: 0 auto;
+}
